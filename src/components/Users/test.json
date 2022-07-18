@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "photoUrl": "https://avatarfiles.alphacoders.com/578/thumb-57843.jpg",
+      "followed": true,
+      "fullname": "Nikita",
+      "status": "I am a man",
+      "location": {
+        "city": "Kiev",
+        "country": "Ukraine"
+      }
+    },
+    {
+      "id": 2,
+      "photoUrl": "https://avatarfiles.alphacoders.com/578/thumb-57843.jpg",
+      "followed": "false",
+      "fullname": "Valeria",
+      "status": "I am from Belarus",
+      "location": {
+        "city": "Minsk",
+        "country": "Belarus"
+      }
+    },
+    {
+      "id": 3,
+      "photoUrl": "https://avatarfiles.alphacoders.com/578/thumb-57843.jpg",
+      "followed": false,
+      "fullname": "Dmitry",
+      "status": "This is my frist status",
+      "location": {
+        "city": "Warsaw",
+        "country": "Poland"
+      }
+    }
+  ]
+}
